@@ -65,6 +65,4 @@ byow
     -beginning from the center of the map. Utilizing randomness for the sizes and existence of hallways
     -(e.g. some rooms may only have 2 outgoing edges
 
-
-
 ## Persistence
