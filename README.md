@@ -1,8 +1,12 @@
 # Build Your Own World Design Document
 
-**Partner 1:** 
+**Partner 1:** Boris Tomov
 
-**Partner 2:**
+**Partner 2:** Jacob Josart
+
+*The Game movement mechanics operate with the keys: W,A,S,D.*
+
+*Game states can be saved with the command ":" immediatelt followed by "Q", which will close the program. Upon running the game again, (L) would load the saved state of the game, while (R) would replay the sequence of moves done before the game was saved initially."
 
 ## Classes and Data Structures
 byow 
